@@ -1,0 +1,3 @@
+/data/schedule.sqlite
+/data/*.sqlite-journal
+/node_modules/

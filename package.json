@@ -1,0 +1,11 @@
+{
+  "name": "tovarnyi-graph",
+  "private": true,
+  "scripts": {
+    "build:css": "sass scss/main.scss public/assets/css/main.css --no-source-map --style=expanded",
+    "watch:css": "sass scss/main.scss public/assets/css/main.css --watch --no-source-map"
+  },
+  "devDependencies": {
+    "sass": "^1.77.0"
+  }
+}

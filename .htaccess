@@ -1,0 +1,5 @@
+# Точка входу — index.php у корені (перенаправлення в public/)
+DirectoryIndex index.php index.html
+
+# Приховати листинг файлів (замість "Index of /")
+Options -Indexes
